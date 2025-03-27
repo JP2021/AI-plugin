@@ -1,0 +1,21 @@
+.ai-assistant-widget {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.ai-assistant-input {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.ai-assistant-submit {
+    padding: 10px 20px;
+}
+
+.ai-assistant-response {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
